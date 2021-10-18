@@ -21,7 +21,7 @@ What does the OWASP Top 10 list name the classification for this vulnerability?
 What service and version are running on port 80 of the target? 
 *Apache httpd 2.4.38 ((Debian))*
 
-NNMAP [IP-address] -sV -sC
+`NNMAP [IP-address] -sV -sC`
 
 #Task 6
 What is the standard port used for the HTTPS protocol?
